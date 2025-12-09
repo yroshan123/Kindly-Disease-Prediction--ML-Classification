@@ -38,6 +38,9 @@ The repository includes implementations of several ML models and allows users to
 ---
 
 ## Project Structure
+## 📂 Project Structure
+
+```text
 Kindly-Disease-Prediction–ML-Classification/
 │
 ├── Data.csv                 # Dataset containing kidney disease features & labels
@@ -52,6 +55,7 @@ Kindly-Disease-Prediction–ML-Classification/
 │
 ├── .gitignore               # Version control ignore rules
 └── README.md                # Project documentation (this file)
+```
 
 ### Prerequisites
 Dependencies:
